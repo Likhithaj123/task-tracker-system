@@ -1,0 +1,60 @@
+﻿body 
+{
+    margin:0px;
+    padding:5px;
+    
+}
+
+.taskEntryDiv 
+{
+    background-color:White;
+    border: 1px solid black;
+    border-radius:5px;
+
+    
+}
+
+.ui-overflow 
+{
+    width:480px;
+    overflow:visible;  
+}
+
+.ui-content 
+{
+    margin:0;
+    padding:5px;    
+}
+#logo h2
+{
+   text-align:center;
+    
+}
+
+.scrollingoff
+{
+    width: 85%;
+    overflow:auto;
+}
+.scrollingon
+{
+    
+    overflow:visible;
+}
+.fixwidth
+{
+    width:80%;    
+}
+
+.footerHeader
+{
+    text-align:center;
+    font-size:9px;
+    
+}
+.footerRA
+{
+    text-align:right;
+    font-size:9px;
+    padding:2px;    
+}
